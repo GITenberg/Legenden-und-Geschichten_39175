@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39877
     wikipedia: http://en.wikipedia.org/wiki/Aleksey_Remizov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39175#Legenden-und-Geschichten
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2012-03-17'
 gutenberg_type: Text
