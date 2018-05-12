@@ -1,0 +1,44 @@
+_repo: Legenden-und-Geschichten_39175
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Luther, Arthur
+    birthdate: 1876
+    deathdate: 1955
+    gutenberg_agent_id: '39878'
+    url: http://www.gutenberg.org/2009/agents/39878
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Remizov, Aleksei
+    aliases:
+    - Remizov, A. M. (Aleksei Mikhailovich)
+    - Remizov, Aleksey Mikhaylovich
+    - Remisoff, Alexei
+    - Ремизов, Алексей Михайлович
+    - Remisow, Alexej M.
+    - Remisov, Alexej Michailowitsch
+    birthdate: 1877
+    deathdate: 1957
+    gutenberg_agent_id: '39877'
+    url: http://www.gutenberg.org/2009/agents/39877
+    wikipedia: http://en.wikipedia.org/wiki/Aleksey_Remizov
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2012-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39175'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russian literature -- Translations into German'
+tableOfContents: 'Legenden: Adams Schwur. Die Geburt Christi. Die Leiden der heiligen
+  Jungfrau. Die Leiden des Heilandes -- Geschichten: Der Hofjuwelier. Maka. Die Krawatte.'
+title: Legenden und Geschichten
+url: http://www.gutenberg.org/ebooks/39175
